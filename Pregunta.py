@@ -3,7 +3,7 @@
 Created on Sun Aug 29 17:20:06 2021
 
 @author: Miguel Ángel Báez
-license: GPL
+license: MIT
 version: 0.11
 mantainer: Miguel Ángel Báez
 email : braintree75.colab@gmail.com
